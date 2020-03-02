@@ -1,0 +1,8 @@
+database:
+  post:
+  - 963f630adc2e443b98c7c93378c17176+4312fa9b8f8142a0832a95008cfee6c0
+render:
+  checkbox: false
+user:
+  locale: en
+  timezone: Asia/Shanghai

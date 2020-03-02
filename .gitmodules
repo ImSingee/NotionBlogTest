@@ -1,0 +1,4 @@
+[submodule "themes/next"]
+	path = themes/next
+	url = https://github.com/ImSingee/hexo-theme-next.git
+    branch = publish
